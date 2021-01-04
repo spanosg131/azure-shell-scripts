@@ -1,6 +1,6 @@
 # azure-shell-scripts
 
-Collection of scripts mostly using on Azure CLI
+Collection of scripts mostly using Azure CLI
 
 
 ## terraform-blob-provisioner.sh
